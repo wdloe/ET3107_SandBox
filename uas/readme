@@ -1,1 +1,16 @@
-New Folder Generated
+Halo, selamat datang di folder Tugas Besar Ini.
+Tugas besar ini dibuat oleh :
+    - Farras Eldy Rashad (18117007)
+    - William Damario Lukito (18117018)
+    
+    
+Tugas besar ini diberi Judul : (I)ntegrated (R)esources (I)ntelligent (T)echnology
+
+Brief Description : Mengimplementasikan artificial intelligent berupa Object Detection yang bertujuan untuk melakukan kontrol terhadap saklar energi listrik.
+
+Adapun library-library yang kami gunakan adalah OpenCV dan YOLO. Sedangkan untuk dataset kami menggunakan pre-trained dataset dari YOLO yaitu COCO.
+
+NOTICE : Pada repo ini 'irit.py' atau 'irit.ipynb' mungkin tidak akan berjalan karena missing file 'yolov3.weight'. File tersebut tidak bisa diupload karena ukurannya >64Mb. Mohon dimaklumi.
+
+
+TERIMA KASIH SUDAH MENGUJUNGI REPOSITORI INI. SEMOGA KAMI BISA DAPAT NILAI YANG DIHARAPKAN. TERIMA KASIH
